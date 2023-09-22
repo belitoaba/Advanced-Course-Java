@@ -18,6 +18,7 @@ public class WebPage {
     @Column(name = "id")
     private Long id;
 
+
     @Column(name = "url")
     private String url;
 
